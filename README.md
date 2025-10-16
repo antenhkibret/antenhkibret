@@ -28,7 +28,7 @@ Full-Stack Engineer with 14+ years building scalable web applications. Currently
 ## 💼 Professional
 - 🔗 [LinkedIn](https://www.linkedin.com/in/antenh-k-527b1522/)
 - 🌐 [Portfolio](https://bonofic.com/team)
-- 📫 antenhkibret@gmail.com
+- ✉️ [Contact](https://bonofic.com/contact)
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=antenhkibret&show_icons=true&theme=dark)
