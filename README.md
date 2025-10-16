@@ -8,7 +8,7 @@ Full-Stack Engineer with 14+ years building scalable web applications. Currently
 - AI-assisted development workflows
 
 ## 🛠️ Tech Stack
-**Frontend:** React, Vue.js, Tailwind CSS, JavaScript/TypeScript  
+**Frontend:** React, Tailwind CSS, JavaScript/TypeScript, HTML5
 **Backend:** Node.js, PHP (Laravel), Python
 **Databases:** MySQL, MongoDB  
 **Cloud & DevOps:** Linode, Docker, Git  
