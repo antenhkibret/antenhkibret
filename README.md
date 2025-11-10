@@ -34,4 +34,4 @@ Full-Stack Engineer with 14+ years building scalable web applications. Currently
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=antenhkibret&show_icons=true&theme=dark)
 
 ---
-💡 Open to interesting full-time, contract (C2C / 1099) opportunities and select consulting projects
+💡 Open to full-time, contract (C2C / 1099) opportunities and select consulting projects
