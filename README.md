@@ -27,7 +27,6 @@ Full-Stack Engineer with 14+ years building scalable web applications. Currently
 
 ## 💼 Professional
 - 🔗 [LinkedIn](https://www.linkedin.com/in/antenh-k-527b1522/)
-- 🌐 [Portfolio](https://bonofic.com/team)
 - ✉️ [Contact](https://bonofic.com/contact)
 - 🧠 [CodeSignal](https://codesignal.com/learn/profile/cmfg2tp2f001gjv0411ejhlgj)
 
