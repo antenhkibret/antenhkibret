@@ -30,8 +30,5 @@ Full-Stack Engineer with 14+ years building scalable web applications. Currently
 - ✉️ [Contact](https://bonofic.com/contact)
 - 🧠 [CodeSignal](https://codesignal.com/learn/profile/cmfg2tp2f001gjv0411ejhlgj)
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=antenhkibret&show_icons=true&theme=dark)
-
 ---
 💡 Open to full-time, contract (C2C / 1099) opportunities and select consulting projects
